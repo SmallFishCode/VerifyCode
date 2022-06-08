@@ -4,9 +4,8 @@
 ```
 npm install verify-img-code
 ```
-## 适用环境 (Vue)
-vite 
-对 webpack 的支持有一定局限，若报错，不要惊慌，换 vite
+## 导入方式
+本项目使用ESmodule导出，未兼容CJS，请使用Import导入
 
 ## 使用方法
 ```js
